@@ -14,7 +14,7 @@
         <header class="l-header">
             <nav class="nav bd-grid">
                 <div>
-                    <a href="#" class="nav__logo">Sairam</a>
+                    <a href="#" class="nav__logo">MENU</a>
                 </div>
 
                 <div class="nav__menu" id="nav-menu">
@@ -26,9 +26,7 @@
                     </ul>
                 </div>
 
-                <div class="nav__toggle" id="nav-toggle">
-                    <i class='bx bx-menu'></i>
-                </div>
+                
             </nav>
         </header>
 
@@ -37,7 +35,7 @@
                 <div class="home__data">
                     <h1 class="home_title">Hi,<br>I'am <span class="home_title-color">sai ram</span><br> student </h1>
 
-                    <a href="#" class="button">Contact</a>
+                    <a href="https://github.com/vootukurisairam123/my-persnol-blog" class="button">my github link about this project</a>
                 </div>
 
                 <div class="home__social">
@@ -45,11 +43,7 @@
                     <a href="https://github.com/vootukurisairam123" class="home__social-icon"><i class='bx bxl-github' ></i></a>
                 </div>
 
-                <div class="home__img">
-                    <svg class="home__blob" viewBox="0 0 479 467" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        
-                    </svg>
-                </div>
+                
             </section>
 
             <section class="about section " id="about">
@@ -63,7 +57,7 @@
                     
                     <div>
                         <h2 class="about__subtitle">I'am sairam</h2>
-                        <p class="about__text">im from malla reddy college of engineering and technology,currently im pursuing my Btech 3 year.</p>           
+                        <p class="about__text">im from malla reddy college of engineering and technology,currently im pursuing my Btech 2 year.</p>           
                     </div>                                   
                 </div>
             </section>
