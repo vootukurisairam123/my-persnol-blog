@@ -1,0 +1,119 @@
+.l-header {
+  background-color:red; 
+  color:white; 
+  padding: 20px 0; 
+}
+
+.nav__logo {
+  color: white;
+  font-size: 1.5rem;
+}
+.nav__link {
+  color:white; 
+  text-decoration: none; 
+  padding: 10px; 
+}
+
+.nav__link:hover {
+  background-color:yellow; 
+}
+
+.home {
+  background-color:white;
+  color:black;
+  padding: 100px 0; 
+  text-align: center; 
+}
+.home__title {
+  font-size: 3rem; 
+}
+
+.button {
+  background-color: blue; 
+  color:white;
+  padding: 10px 20px; 
+  text-decoration: none; 
+  border: none;
+  border-radius: 5px; 
+}
+
+.button:hover {
+  background-color:blue; 
+}
+
+
+.about {
+  background-color: white; 
+  color: black;
+  padding: 100px 0; 
+  text-align: center;
+}
+
+.about__img img {
+  width: 200px; 
+  border-radius: 50%; 
+}
+
+.about__subtitle {
+  font-size: 2rem; 
+}
+
+.about__text {
+  font-size: 1.2rem; 
+}
+
+.skills {
+  background-color:white; 
+  color:black;
+  padding: 100px 0; 
+  text-align: center; 
+}
+
+.skills__subtitle {
+  font-size: 2rem; 
+}
+
+.skills__text {
+  font-size: 1.2rem; 
+}
+
+.contact {
+  background-color: #007bff; 
+  color:white; 
+  padding: 100px 0; 
+  text-align: center;
+}
+
+.contact__input {
+  padding: 10px;
+  margin: 10px; 
+}
+
+.contact__button {
+  background-color: white; 
+  color: blue;
+  padding: 10px 20px; 
+  border: none; 
+  border-radius: 5px; 
+}
+
+.contact__button:hover {
+  background-color:white;
+}
+
+.footer {
+  background-color:greenyellow; 
+  color:white;
+  padding: 20px 0; 
+  text-align: center;
+}
+
+.footer__icon {
+  color:white; 
+  font-size: 1.5rem; 
+  margin: 0 10px; 
+}
+
+.footer__copy {
+  font-size: 0.8rem;
+}
