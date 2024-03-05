@@ -67,7 +67,7 @@
   background-color:black; 
   color:white;
   padding: 100px 0; 
-  text-align: center; 
+  text-align:left; 
 }
 
 .skills__subtitle {
@@ -82,7 +82,7 @@
   background-color: black; 
   color:white; 
   padding: 100px 0; 
-  text-align: center;
+  text-align:center;
 }
 
 .contact__input {
