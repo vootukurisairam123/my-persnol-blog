@@ -44,8 +44,8 @@
 
 
 .about {
-  background-color: black; 
-  color:white;
+  background-color: white; 
+  color:black;
   padding: 100px 0; 
   text-align: center;
 }
@@ -79,8 +79,8 @@
 }
 
 .contact {
-  background-color: black; 
-  color:white; 
+  background-color: white; 
+  color:black; 
   padding: 100px 0; 
   text-align:center;
 }
