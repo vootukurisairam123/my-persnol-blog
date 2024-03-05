@@ -1,3 +1,2 @@
-I'm Sairam this project about my personal blog.
-I'm student of MRCET.
-I'm currently pursuing my BTech in CSM.
+
+https://vootukurisairam123.github.io/my-persnol-blog/blog.html
